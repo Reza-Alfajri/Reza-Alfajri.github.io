@@ -323,9 +323,17 @@ section {
   margin-bottom: 0;
 }
 
+.about img{
+  border-radius: 10px;
+}
+
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio img{
+  border-radius: 10px;
+}
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
